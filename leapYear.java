@@ -2,7 +2,6 @@
 
 // Write a program that reads a year from the user, and checks whether or not it is a leap year.
 
-//your code goes here
 
 
 import java.util.Scanner;
