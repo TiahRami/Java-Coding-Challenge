@@ -14,6 +14,8 @@
 
 // Write a program that calculates the gift tax for a gift from a close relative or a family member.
 
+//your code goes here
+
 import java.util.Scanner;
 
 public class GiftTax {
